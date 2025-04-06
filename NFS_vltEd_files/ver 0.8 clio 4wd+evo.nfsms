@@ -1,0 +1,506 @@
+update_field pvehicle clio HandlingRating[0] 48
+update_field pvehicle clio HandlingRating[1] 98
+update_field chassis clio FRONT_WEIGHT_BIAS 50.77
+update_field chassis clio DRAG_COEFFICIENT 0.27
+update_field chassis clio AERO_COEFFICIENT 0.18
+update_field chassis clio SPRING_STIFFNESS Front 370
+update_field chassis clio SPRING_STIFFNESS Rear 390
+update_field chassis clio SWAYBAR_STIFFNESS Front 240
+update_field chassis clio SWAYBAR_STIFFNESS Rear 185
+update_field chassis clio TRACK_WIDTH Front 1.55
+update_field chassis clio TRACK_WIDTH Rear 1.498
+update_field chassis clio_top FRONT_WEIGHT_BIAS 50.77
+update_field chassis clio_top AERO_COEFFICIENT 0.27
+update_field chassis clio_top DRAG_COEFFICIENT 0.3
+update_field chassis clio_top AERO_COEFFICIENT 0.18
+update_field chassis clio_top DRAG_COEFFICIENT 0.27
+update_field chassis clio_top SPRING_STIFFNESS Front 666
+update_field chassis clio_top SPRING_STIFFNESS Rear 666
+update_field chassis clio_top SWAYBAR_STIFFNESS Front 295
+update_field chassis clio_top SWAYBAR_STIFFNESS Rear 295
+update_field chassis clio_top TRACK_WIDTH Front 1.55
+update_field chassis clio_top TRACK_WIDTH Rear 1.499
+update_field engine clio_top MAX_RPM 10500
+update_field engine clio_top RED_LINE 8700
+update_field engine clio_top IDLE 900
+update_field engine clio_top TORQUE[0] 150
+update_field engine clio_top TORQUE[1] 245
+update_field engine clio_top TORQUE[2] 350
+update_field engine clio_top TORQUE[3] 537
+update_field engine clio_top TORQUE[4] 570
+update_field engine clio_top TORQUE[5] 530
+update_field engine clio_top TORQUE[6] 450
+update_field engine clio_top TORQUE[6] 550
+update_field engine clio_top TORQUE[7] 475
+update_field engine clio_top TORQUE[8] 456
+update_field engine clio_top FLYWHEEL_MASS 10
+update_field engine clio_top TORQUE[0] 180
+update_field engine clio_top TORQUE[1] 300
+update_field engine clio_top TORQUE[2] 450
+update_field engine clio_top TORQUE[3] 598
+update_field engine clio_top TORQUE[6] 500
+update_field engine clio_top FLYWHEEL_MASS 9
+update_field pvehicle clio HandlingRating[0] 50
+update_field pvehicle clio HandlingRating[1] 99
+update_field pvehicle clio MASS 1302
+update_field tires clio_top GRIP_SCALE Front 1.1
+update_field tires clio_top GRIP_SCALE Rear 1.09
+update_field tires clio_top STATIC_GRIP Front 2.1
+update_field tires clio_top STATIC_GRIP Rear 2.25
+update_field transmission clio_top SHIFT_SPEED 0.1
+update_field tires clio_top SECTION_WIDTH Front 265
+update_field tires clio_top SECTION_WIDTH Rear 285
+update_field tires clio_top STATIC_GRIP Front 2.3
+update_field tires clio_top STATIC_GRIP Rear 2.45
+update_field tires clio_top DYNAMIC_GRIP Front 1.3
+update_field tires clio_top DYNAMIC_GRIP Front 1.9
+update_field tires clio_top DYNAMIC_GRIP Front 2
+update_field tires clio_top DYNAMIC_GRIP Rear 2.1
+update_field tires clio_top GRIP_SCALE Front 1.2
+update_field tires clio_top GRIP_SCALE Rear 1.11
+update_field tires clio_top YAW_CONTROL[0] 0.18
+update_field tires clio_top YAW_CONTROL[1] 0.69
+update_field tires clio_top YAW_CONTROL[2] 1.1
+update_field tires clio_top YAW_CONTROL[3] 1.32
+update_field tires clio_top YAW_SPEED 0.38
+update_field brakes clio_top BRAKES Front 495
+update_field brakes clio_top BRAKES Rear 620
+update_field brakes clio_top EBRAKE 710
+update_field brakes clio_top BRAKE_LOCK Front 1.1
+update_field brakes clio_top BRAKE_LOCK Rear 3.45
+update_field engine clio_top RED_LINE 9770
+update_field chassis clio_top FRONT_WEIGHT_BIAS 52.77
+update_field chassis clio_top WHEEL_BASE 2.6732
+update_field chassis clio_top TRACK_WIDTH Front 1.58
+update_field chassis clio_top TRACK_WIDTH Rear 1.21
+update_field chassis clio_top TRACK_WIDTH Rear 1.51
+update_field chassis clio_top AERO_COEFFICIENT 0.2
+update_field chassis clio_top AERO_CG 49
+update_field pvehicle clio MASS 1450
+update_field pvehicle clio MASS 1400
+update_field chassis clio_top SWAYBAR_STIFFNESS Front 275
+update_field chassis clio_top SWAYBAR_STIFFNESS Rear 275
+update_field chassis clio_top SWAYBAR_STIFFNESS Front 288
+update_field tires clio_top DYNAMIC_GRIP Front 2.2
+update_field tires clio_top DYNAMIC_GRIP Rear 2.15
+update_field tires clio_top DYNAMIC_GRIP Front 2.22
+update_field tires clio_top GRIP_SCALE Front 1.17
+update_field tires clio_top GRIP_SCALE Rear 1.09
+update_field tires clio_top YAW_CONTROL[0] 0.21
+update_field tires clio_top YAW_CONTROL[1] 0.72
+update_field tires clio_top YAW_CONTROL[2] 1.15
+update_field tires clio_top YAW_CONTROL[3] 1.37
+update_field tires clio_top YAW_SPEED 0.28
+update_field tires clio_top YAW_SPEED 0.99
+update_field tires clio_top YAW_SPEED 0.1
+update_field tires clio_top YAW_SPEED 0.3
+update_field tires clio_top YAW_SPEED 0.32
+update_field tires clio_top STEERING 1.07
+update_field tires clio_top STATIC_GRIP Front 2.25
+update_field tires clio_top STATIC_GRIP Rear 2.35
+update_field chassis clio_top SPRING_STIFFNESS Front 625
+update_field chassis clio_top SPRING_STIFFNESS Rear 625
+update_field chassis clio_top WHEEL_BASE 2.5932
+update_field chassis clio_top SPRING_STIFFNESS Front 720
+update_field chassis clio_top SPRING_STIFFNESS Rear 720
+update_field chassis clio_top FRONT_WEIGHT_BIAS 49
+update_field chassis clio_top FRONT_WEIGHT_BIAS 52.7
+update_field chassis clio_top SPRING_STIFFNESS Front 666
+update_field chassis clio_top SPRING_STIFFNESS Rear 666
+update_field chassis clio_top SPRING_STIFFNESS Front 620
+update_field chassis clio_top SPRING_STIFFNESS Rear 620
+update_field chassis clio_top SWAYBAR_STIFFNESS Front 278
+update_field chassis clio_top SWAYBAR_STIFFNESS Rear 278
+update_field nos nos_top RECHARGE_MIN_SPEED 100
+update_field nos nos_top RECHARGE_MAX_SPEED 150
+update_field nos nos_top TORQUE_BOOST 1.2
+update_field tires clio_top DYNAMIC_GRIP Front 1.82
+update_field tires clio_top DYNAMIC_GRIP Rear 1.92
+update_field tires clio_top GRIP_SCALE Front 1.08
+update_field tires clio_top GRIP_SCALE Rear 1.087
+update_field tires clio_top SECTION_WIDTH Front 255
+update_field tires clio_top SECTION_WIDTH Rear 255
+update_field pvehicle clio HandlingRating[0] 47
+update_field pvehicle clio HandlingRating[1] 97
+update_field pvehicle clio HandlingRating[0] 46
+update_field pvehicle clio HandlingRating[1] 96
+update_field pvehicle clio MASS 1380
+update_field tires clio_top SECTION_WIDTH Front 260
+update_field tires clio_top SECTION_WIDTH Rear 260
+update_field transmission clio_top SHIFT_SPEED 0.1
+update_field engine clio_top RED_LINE 7800
+update_field engine clio_top TORQUE[3] 530
+update_field engine clio_top TORQUE[4] 500
+update_field engine clio_top TORQUE[5] 500
+update_field engine clio_top TORQUE[6] 450
+update_field engine clio_top TORQUE[7] 400
+update_field engine clio_top TORQUE[8] 380
+update_field engine clio_top TORQUE[0] 160
+update_field engine clio_top TORQUE[1] 235
+update_field engine clio_top TORQUE[2] 340
+update_field engine clio_top TORQUE[3] 540
+update_field engine clio_top TORQUE[4] 510
+update_field engine clio_top TORQUE[5] 510
+update_field engine clio_top TORQUE[6] 460
+update_field engine clio_top TORQUE[7] 410
+update_field engine clio_top TORQUE[8] 390
+update_field pvehicle clio MASS 1350
+update_field pvehicle clio MASS 1330
+update_field engine clio_top MAX_RPM 9000
+update_field engine clio_top RED_LINE 8000
+update_field engine clio_top TORQUE[4] 560
+update_field engine clio_top TORQUE[5] 560
+update_field engine clio_top TORQUE[6] 510
+update_field engine clio_top TORQUE[7] 460
+update_field engine clio_top TORQUE[8] 440
+update_field engine clio_top TORQUE[0] 180
+update_field engine clio_top TORQUE[1] 255
+update_field engine clio_top TORQUE[2] 360
+update_field engine clio_top TORQUE[3] 580
+update_field engine clio_top TORQUE[4] 600
+update_field engine clio_top TORQUE[5] 600
+update_field engine clio_top TORQUE[6] 550
+update_field engine clio_top TORQUE[7] 500
+update_field engine clio_top TORQUE[8] 480
+update_field engine clio_top MAX_RPM 8500
+update_field engine clio_top RED_LINE 7500
+update_field engine clio_top FLYWHEEL_MASS 13
+update_field engine clio_top TORQUE[0] 287
+update_field engine clio_top TORQUE[1] 355
+update_field engine clio_top TORQUE[2] 460
+update_field engine clio_top TORQUE[3] 680
+update_field engine clio_top TORQUE[4] 700
+update_field engine clio_top TORQUE[5] 700
+update_field engine clio_top TORQUE[6] 650
+update_field engine clio_top TORQUE[7] 600
+update_field engine clio_top TORQUE[8] 580
+update_field engine clio_top TORQUE[8] 900
+update_field engine clio_top TORQUE[7] 900
+update_field engine clio_top TORQUE[6] 900
+update_field engine clio_top TORQUE[8] 990
+update_field engine clio_top TORQUE[5] 750
+update_field engine clio_top TORQUE[4] 750
+update_field engine clio_top TORQUE[3] 699
+update_field engine clio_top TORQUE[2] 500
+update_field engine clio_top TORQUE[1] 398
+update_field engine clio_top TORQUE[0] 320
+update_field pvehicle clio MASS 1380
+update_field transmission clio_top GEAR_RATIO[7] 0.8
+update_field transmission clio_top GEAR_RATIO[6] 0.88
+update_field transmission clio_top GEAR_RATIO[5] 1.08
+update_field transmission clio_top GEAR_RATIO[4] 1.5
+update_field transmission clio_top TORQUE_CONVERTER 0.75
+update_field transmission clio_top TORQUE_CONVERTER 0.85
+update_field chassis clio_top SPRING_STIFFNESS Front 630
+update_field chassis clio_top SPRING_STIFFNESS Rear 630
+update_field chassis clio_top SWAYBAR_STIFFNESS Front 288
+update_field chassis clio_top SWAYBAR_STIFFNESS Rear 288
+update_field engine clio_top TORQUE[0] 180
+update_field engine clio_top TORQUE[1] 249
+update_field engine clio_top TORQUE[2] 330
+update_field engine clio_top TORQUE[2] 340
+update_field engine clio_top TORQUE[3] 440
+update_field engine clio_top TORQUE[4] 480
+update_field engine clio_top TORQUE[5] 480
+update_field engine clio_top TORQUE[6] 500
+update_field engine clio_top TORQUE[7] 480
+update_field engine clio_top TORQUE[8] 440
+update_field engine clio_top TORQUE[4] 580
+update_field engine clio_top TORQUE[5] 530
+update_field engine clio_top MAX_RPM 9000
+update_field engine clio_top RED_LINE 8000
+update_field engine clio_top MAX_RPM 9600
+update_field engine clio_top RED_LINE 8800
+update_field engine clio_top FLYWHEEL_MASS 10
+update_field engine clio_top RED_LINE 8500
+update_field engine clio_top MAX_RPM 9500
+update_field engine clio_top FLYWHEEL_MASS 8
+update_field transmission clio_top TORQUE_CONVERTER 0.8
+update_field transmission clio_top SHIFT_SPEED 0.15
+update_field engine clio_top TORQUE[4] 800
+update_field engine clio_top TORQUE[5] 800
+update_field engine clio_top TORQUE[6] 800
+update_field engine clio_top TORQUE[7] 800
+update_field engine clio_top TORQUE[8] 800
+update_field engine clio_top TORQUE[0] 220
+update_field engine clio_top TORQUE[1] 289
+update_field engine clio_top TORQUE[2] 390
+update_field engine clio_top TORQUE[3] 490
+update_field engine clio_top TORQUE[4] 650
+update_field engine clio_top TORQUE[5] 680
+update_field engine clio_top TORQUE[6] 670
+update_field engine clio_top TORQUE[7] 650
+update_field engine clio_top TORQUE[8] 600
+update_field chassis clio_top AERO_CG 47.5
+update_field chassis clio_top AERO_COEFFICIENT 0.27
+update_field chassis clio_top DRAG_COEFFICIENT 0.29
+update_field chassis clio_top FRONT_AXLE 1.3
+update_field chassis clio_top FRONT_WEIGHT_BIAS 53.7
+update_field chassis clio_top FRONT_WEIGHT_BIAS 53.2
+update_field chassis clio_top SHOCK_EXT_STIFFNESS Rear 77
+update_field chassis clio_top SPRING_PROGRESSION Front 7
+update_field chassis clio_top SPRING_PROGRESSION Rear 7
+update_field chassis clio_top SPRING_STIFFNESS Front 650
+update_field chassis clio_top TRACK_WIDTH Front 1.6
+update_field chassis clio_top TRACK_WIDTH Rear 1.6
+update_field chassis clio_top TRAVEL Front 7.5
+update_field chassis clio_top TRAVEL Rear 7.5
+update_field chassis clio_top WHEEL_BASE 2.6532
+update_field chassis clio_top TRAVEL Front 7
+update_field chassis clio_top TRAVEL Rear 7
+update_field chassis clio_top WHEEL_BASE 2.6232
+update_field brakes clio_top EBRAKE 910
+update_field tires clio_top DYNAMIC_GRIP Front 2
+update_field tires clio_top DYNAMIC_GRIP Rear 2
+update_field tires clio_top GRIP_SCALE Front 1.18
+update_field tires clio_top GRIP_SCALE Rear 1.23
+update_field tires clio_top RIM_SIZE Front 19
+update_field tires clio_top RIM_SIZE Rear 19
+update_field tires clio_top YAW_SPEED 0.3
+update_field tires clio_top YAW_CONTROL[0] 0.3
+update_field tires clio_top YAW_CONTROL[1] 0.65
+update_field tires clio_top YAW_CONTROL[0] 0.21
+update_field tires clio_top YAW_CONTROL[1] 0.51
+update_field tires clio_top YAW_SPEED 0.33
+update_field tires clio_top DYNAMIC_GRIP Front 2.2
+update_field tires clio_top DYNAMIC_GRIP Rear 2.2
+update_field tires clio_top GRIP_SCALE Front 1.2
+update_field tires clio_top GRIP_SCALE Rear 1.25
+update_field tires clio_top STATIC_GRIP Front 2.28
+update_field tires clio_top STATIC_GRIP Rear 2.38
+update_field tires clio_top DYNAMIC_GRIP Front 2.32
+update_field tires clio_top DYNAMIC_GRIP Rear 2.32
+update_field tires clio_top GRIP_SCALE Front 1.25
+update_field tires clio_top GRIP_SCALE Rear 1.3
+update_field tires clio_top SECTION_WIDTH Front 262
+update_field tires clio_top SECTION_WIDTH Rear 262
+update_field tires clio_top STATIC_GRIP Front 2.3
+update_field tires clio_top STATIC_GRIP Rear 2.4
+update_field tires clio_top YAW_SPEED 0.34
+update_field tires clio_top YAW_SPEED 0.33
+update_field tires clio_top SECTION_WIDTH Rear 260
+update_field tires clio_top SECTION_WIDTH Front 260
+update_field tires clio_top GRIP_SCALE Front 1.2
+update_field tires clio_top GRIP_SCALE Rear 1.25
+update_field tires clio_top DYNAMIC_GRIP Front 2.2
+update_field tires clio_top DYNAMIC_GRIP Rear 2.2
+update_field tires clio_top STATIC_GRIP Front 2.2
+update_field tires clio_top STATIC_GRIP Front 2.1
+update_field tires clio_top STATIC_GRIP Rear 2.2
+update_field tires clio_top STATIC_GRIP Front 2
+update_field tires clio_top STEERING 1.12
+update_field brakes clio_top BRAKES Front 525
+update_field brakes clio_top BRAKES Rear 655
+update_field chassis clio_top AERO_COEFFICIENT 0.29
+update_field chassis clio_top FRONT_AXLE 1.35
+update_field chassis clio_top FRONT_WEIGHT_BIAS 54.2
+update_field chassis clio_top SHOCK_DIGRESSION Front 0.35
+update_field chassis clio_top SHOCK_DIGRESSION Rear 0.35
+update_field chassis clio_top SPRING_STIFFNESS Front 670
+update_field chassis clio_top SPRING_STIFFNESS Rear 650
+update_field chassis clio_top TRAVEL Front 7.5
+update_field chassis clio_top TRAVEL Rear 7.5
+update_field chassis clio_top ROLL_CENTER 8
+update_field chassis clio_top SWAYBAR_STIFFNESS Front 295
+update_field chassis clio_top SWAYBAR_STIFFNESS Rear 295
+update_field chassis clio_top SHOCK_EXT_STIFFNESS Front 79
+update_field chassis clio_top SHOCK_EXT_STIFFNESS Rear 79
+update_field chassis clio_top SHOCK_BLOWOUT 8
+update_field chassis clio_top SHOCK_BLOWOUT 7
+update_field chassis clio_top RIDE_HEIGHT Front 6
+update_field chassis clio_top RIDE_HEIGHT Rear 6
+update_field chassis clio_top FRONT_WEIGHT_BIAS 53.3
+update_field tires clio_top SECTION_WIDTH Front 265
+update_field tires clio_top SECTION_WIDTH Rear 265
+update_field tires clio_top YAW_CONTROL[0] 0.32
+update_field tires clio_top YAW_CONTROL[1] 0.558
+update_field tires clio_top YAW_CONTROL[2] 1.25
+update_field tires clio_top YAW_CONTROL[3] 1.47
+update_field tires clio_top DYNAMIC_GRIP Front 2.15
+update_field tires clio_top DYNAMIC_GRIP Rear 2.15
+update_field tires clio_top ASPECT_RATIO Front 45
+update_field tires clio_top ASPECT_RATIO Rear 45
+update_field tires clio_top STATIC_GRIP Front 2.29
+update_field tires clio_top STATIC_GRIP Rear 2.39
+update_field tires clio_top GRIP_SCALE Front 1.2
+update_field tires clio_top GRIP_SCALE Rear 1.25
+update_field pvehicle lancerevo8 MASS 1350
+update_field engine lancerevo8_top RED_LINE 7800
+update_field engine lancerevo8_top MAX_RPM 8800
+update_field engine lancerevo8_top FLYWHEEL_MASS 9
+update_field engine lancerevo8_top TORQUE[0] 250
+update_field engine lancerevo8_top TORQUE[1] 340
+update_field engine lancerevo8_top TORQUE[2] 450
+update_field engine lancerevo8_top TORQUE[3] 650
+update_field engine lancerevo8_top TORQUE[4] 650
+update_field engine lancerevo8_top TORQUE[5] 650
+update_field engine lancerevo8_top TORQUE[5] 680
+update_field engine lancerevo8_top TORQUE[6] 600
+update_field engine lancerevo8_top TORQUE[7] 576
+update_field engine lancerevo8_top TORQUE[8] 421
+update_field engine lancerevo8_top TORQUE[5] 750
+update_field engine lancerevo8_top TORQUE[6] 680
+update_field transmission lancerevo8_top DIFFERENTIAL[0] 0.8
+update_field transmission lancerevo8_top DIFFERENTIAL[1] 0.8
+update_field transmission lancerevo8_top DIFFERENTIAL[2] 0.75
+update_field transmission lancerevo8_top TORQUE_CONVERTER 0.75
+update_field transmission lancerevo8_top CLUTCH_SLIP 0.88
+update_field transmission lancerevo8_top FINAL_GEAR 3.45
+update_field engine lancerevo8_top TORQUE[4] 680
+update_field chassis lancerevo8_top DRAG_COEFFICIENT 0.31
+update_field chassis lancerevo8_top RIDE_HEIGHT Front 6
+update_field chassis lancerevo8_top RIDE_HEIGHT Front 6.5
+update_field chassis lancerevo8_top RIDE_HEIGHT Rear 6.5
+update_field chassis lancerevo8_top SWAYBAR_STIFFNESS Front 320
+update_field chassis lancerevo8_top SWAYBAR_STIFFNESS Rear 270
+update_field chassis lancerevo8_top ROLL_CENTER 8.45
+update_field chassis lancerevo8_top SPRING_STIFFNESS Front 650
+update_field chassis lancerevo8_top SPRING_STIFFNESS Rear 650
+update_field chassis lancerevo8_top SPRING_PROGRESSION Front 7
+update_field chassis lancerevo8_top SPRING_PROGRESSION Rear 7
+update_field chassis lancerevo8_top TRACK_WIDTH Front 1.585
+update_field chassis lancerevo8_top TRACK_WIDTH Rear 1.585
+update_field chassis lancerevo8_top SHOCK_DIGRESSION Front 0.45
+update_field chassis lancerevo8_top SHOCK_DIGRESSION Rear 0.45
+update_field chassis lancerevo8_top SHOCK_DIGRESSION Front 0.1
+update_field chassis lancerevo8_top SHOCK_DIGRESSION Rear 0.1
+update_field chassis lancerevo8_top SHOCK_DIGRESSION Front 0.3
+update_field chassis lancerevo8_top SHOCK_DIGRESSION Rear 0.3
+update_field tires lancerevo8_top RIM_SIZE Front 18
+update_field tires lancerevo8_top RIM_SIZE Rear 18
+update_field tires lancerevo8_top SECTION_WIDTH Front 245
+update_field tires lancerevo8_top SECTION_WIDTH Rear 245
+update_field tires lancerevo8_top YAW_CONTROL[0] 0.25
+update_field tires lancerevo8_top YAW_CONTROL[1] 0.65
+update_field tires lancerevo8_top YAW_CONTROL[2] 0.75
+update_field tires lancerevo8_top YAW_CONTROL[3] 1.15
+update_field tires lancerevo8_top YAW_SPEED 0.8
+update_field tires lancerevo8_top DYNAMIC_GRIP Front 2.1
+update_field tires lancerevo8_top DYNAMIC_GRIP Rear 12
+update_field tires lancerevo8_top DYNAMIC_GRIP Rear 2.05
+update_field tires lancerevo8_top GRIP_SCALE Front 1.15
+update_field tires lancerevo8_top GRIP_SCALE Rear 1.12
+update_field tires lancerevo8_top YAW_SPEED 0.82
+update_field tires lancerevo8_top STATIC_GRIP Front 2.2
+update_field tires lancerevo8_top STATIC_GRIP Rear 2.3
+update_field tires lancerevo8_top STEERING 1.12
+update_field tires lancerevo8_top ASPECT_RATIO Front 50
+update_field tires lancerevo8_top ASPECT_RATIO Rear 50
+update_field tires lancerevo8_top ASPECT_RATIO Front 40
+update_field tires lancerevo8_top ASPECT_RATIO Rear 40
+update_field tires lancerevo8_top STATIC_GRIP Front 2.3
+update_field tires lancerevo8_top STATIC_GRIP Rear 2.4
+update_field tires lancerevo8_top STEERING 1.13
+update_field tires lancerevo8_top YAW_SPEED 0.77
+update_field tires lancerevo8_top RIM_SIZE Front 19
+update_field tires lancerevo8_top RIM_SIZE Rear 19
+update_field tires lancerevo8_top GRIP_SCALE Front 1.2
+update_field tires lancerevo8_top GRIP_SCALE Rear 1.17
+update_field tires lancerevo8_top DYNAMIC_GRIP Front 2.3
+update_field tires lancerevo8_top DYNAMIC_GRIP Rear 2.2
+update_field tires lancerevo8_top ASPECT_RATIO Front 45
+update_field tires lancerevo8_top ASPECT_RATIO Rear 45
+update_field tires lancerevo8_top DYNAMIC_GRIP Front 2.25
+update_field tires lancerevo8_top GRIP_SCALE Front 1.16
+update_field tires lancerevo8_top GRIP_SCALE Rear 1.13
+update_field tires lancerevo8_top SECTION_WIDTH Front 255
+update_field tires lancerevo8_top SECTION_WIDTH Rear 255
+update_field tires lancerevo8_top STATIC_GRIP Front 2.2
+update_field tires lancerevo8_top STATIC_GRIP Rear 2.3
+update_field tires lancerevo8_top YAW_CONTROL[0] 0.3
+update_field tires lancerevo8_top YAW_CONTROL[1] 0.6
+update_field tires lancerevo8_top YAW_CONTROL[2] 0.65
+update_field tires lancerevo8_top YAW_CONTROL[3] 1.1
+update_field tires lancerevo8_top YAW_SPEED 0.75
+update_field tires lancerevo8_top DYNAMIC_GRIP Front 2.12
+update_field tires lancerevo8_top DYNAMIC_GRIP Rear 2.15
+update_field tires lancerevo8_top GRIP_SCALE Front 1.2
+update_field tires lancerevo8_top GRIP_SCALE Rear 1.15
+update_field tires lancerevo8_top GRIP_SCALE Rear 1.25
+update_field tires lancerevo8_top RIM_SIZE Front 19
+update_field tires lancerevo8_top RIM_SIZE Rear 19
+update_field tires lancerevo8_top SECTION_WIDTH Front 265
+update_field tires lancerevo8_top SECTION_WIDTH Rear 265
+update_field tires lancerevo8_top STATIC_GRIP Front 2.29
+update_field tires lancerevo8_top STATIC_GRIP Rear 2.39
+update_field tires lancerevo8_top STEERING 1.12
+update_field tires lancerevo8_top YAW_CONTROL[0] 0.32
+update_field tires lancerevo8_top YAW_CONTROL[1] 0.558
+update_field tires lancerevo8_top YAW_CONTROL[2] 1.25
+update_field tires lancerevo8_top YAW_CONTROL[3] 1.47
+update_field transmission lancerevo8_top GEAR_RATIO[7] 0.76
+update_field transmission lancerevo8_top FINAL_GEAR 3.2
+update_field transmission lancerevo8_top TORQUE_CONVERTER 0.8
+update_field engine lancerevo8_top FLYWHEEL_MASS 8
+update_field engine lancerevo8_top MAX_RPM 9500
+update_field engine lancerevo8_top RED_LINE 8500
+update_field engine lancerevo8_top TORQUE[3] 580
+update_field engine lancerevo8_top TORQUE[4] 700
+update_field engine lancerevo8_top TORQUE[4] 680
+update_field engine lancerevo8_top TORQUE[5] 720
+update_field engine lancerevo8_top TORQUE[6] 680
+update_field engine lancerevo8_top TORQUE[7] 650
+update_field engine lancerevo8_top TORQUE[8] 632
+update_field brakes lancerevo8_top BRAKE_LOCK Front 1.1
+update_field brakes lancerevo8_top BRAKES Front 576
+update_field brakes lancerevo8_top BRAKES Rear 720
+update_field brakes lancerevo8_top EBRAKE 750
+update_field chassis lancerevo8_top TRAVEL Front 7.5
+update_field chassis lancerevo8_top TRAVEL Rear 7.5
+update_field chassis lancerevo8_top TRACK_WIDTH Front 1.6
+update_field chassis lancerevo8_top TRACK_WIDTH Rear 1.6
+update_field chassis lancerevo8_top SWAYBAR_STIFFNESS Front 295
+update_field chassis lancerevo8_top SWAYBAR_STIFFNESS Rear 285
+update_field chassis lancerevo8_top SPRING_STIFFNESS Front 666
+update_field chassis lancerevo8_top SPRING_STIFFNESS Rear 666
+update_field chassis lancerevo8_top SPRING_PROGRESSION Front 7
+update_field chassis lancerevo8_top SPRING_PROGRESSION Rear 7
+update_field chassis lancerevo8_top SHOCK_EXT_STIFFNESS Front 79
+update_field chassis lancerevo8_top SHOCK_EXT_STIFFNESS Rear 79
+update_field chassis lancerevo8_top SHOCK_DIGRESSION Front 0.35
+update_field chassis lancerevo8_top SHOCK_DIGRESSION Rear 0.35
+update_field chassis lancerevo8_top SHOCK_DIGRESSION Rear 0.35
+update_field chassis lancerevo8_top SHOCK_BLOWOUT 7
+update_field chassis lancerevo8_top ROLL_CENTER 8
+update_field chassis lancerevo8_top RIDE_HEIGHT Front 6
+update_field chassis lancerevo8_top RIDE_HEIGHT Rear 6
+update_field chassis lancerevo8_top FRONT_AXLE 1.35
+update_field chassis lancerevo8_top AERO_COEFFICIENT 0.29
+update_field chassis lancerevo8_top DRAG_COEFFICIENT 0.29
+update_field tires lancerevo8_top STEERING 1.15
+update_field tires lancerevo8_top YAW_CONTROL[1] 0.8
+update_field tires lancerevo8_top YAW_CONTROL[1] 0.558
+update_field pvehicle lancerevo8 MASS 1350
+update_field pvehicle lancerevo8 MASS 1330
+update_field tires lancerevo8_top STATIC_GRIP Front 2.34
+update_field tires lancerevo8_top STATIC_GRIP Rear 2.44
+update_field tires lancerevo8_top GRIP_SCALE Front 1.22
+update_field tires lancerevo8_top GRIP_SCALE Rear 1.27
+update_field tires lancerevo8_top DYNAMIC_GRIP Front 2.17
+update_field tires lancerevo8_top DYNAMIC_GRIP Rear 2.2
+update_field tires lancerevo8_top DYNAMIC_GRIP Front 2.25
+update_field tires lancerevo8_top DYNAMIC_GRIP Rear 2.35
+update_field tires lancerevo8_top GRIP_SCALE Front 1.24
+update_field tires lancerevo8_top GRIP_SCALE Rear 1.29
+update_field tires lancerevo8_top STATIC_GRIP Front 2.39
+update_field tires lancerevo8_top STATIC_GRIP Rear 2.49
+update_field chassis lancerevo8_top SPRING_STIFFNESS Front 680
+update_field tires lancerevo8_top DYNAMIC_GRIP Front 2.29
+update_field tires lancerevo8_top DYNAMIC_GRIP Rear 2.39
+update_field tires lancerevo8_top GRIP_SCALE Front 1.26
+update_field tires lancerevo8_top GRIP_SCALE Rear 1.31
+update_field tires lancerevo8_top STATIC_GRIP Front 2.43
+update_field tires lancerevo8_top STATIC_GRIP Rear 2.53
+update_field tires lancerevo8_top STEERING 1.12
+update_field tires lancerevo8_top STATIC_GRIP Front 2.53
+update_field tires lancerevo8_top STATIC_GRIP Rear 2.63
+update_field tires lancerevo8_top GRIP_SCALE Rear 1.35
+update_field tires lancerevo8_top GRIP_SCALE Front 1.3
+update_field tires lancerevo8_top DYNAMIC_GRIP Front 2.39
+update_field tires lancerevo8_top DYNAMIC_GRIP Rear 2.49
+update_field tires lancerevo8_top YAW_CONTROL[0] 0.37
+update_field tires lancerevo8_top YAW_CONTROL[1] 0.65
+update_field tires lancerevo8_top YAW_CONTROL[2] 1.29
+update_field tires lancerevo8_top YAW_CONTROL[3] 1.52
+update_field transmission clio_top DIFFERENTIAL[2] 0.7
+update_field transmission clio_top TORQUE_SPLIT 0.5
