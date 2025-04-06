@@ -1,0 +1,47 @@
+For english:
+Car tuning works using two programs.
+The first program is the car tuning itself.
+If you buy a car, go into the program and install top-end parts (THIS DOES NOT APPLY TO BODY PARTS AND APPEARANCE DETAILS).
+With the help of the second program, you will restore the career file, since it gets corrupted when using the first one. Also, the second program allows you to change the profile name, set the amount of money and the amount of rating on the car located in the first slot of the garage.
+
+Instruction:
+1) Open the cartuner_1 folder.3
+2) Open the Cartune 13 folder
+3) Open the CarTuner.CAB file (you can use the ZIP)
+4) Open the file CarTuner.exe
+5) Select the career file by clicking the "Spielstand laden" button.
+6) On the left there is a table with a list of cars from career mode. Choose a car with one click. On the right is a list of part names and installation level. There is also a junk dealer's detail, which is checked. If you want to improve the auto menu mode (My cars), it says "Mein Wagen" on the bottom left. Just move the dot there.
+6) After installing the tuning on the car, press the button "Dnderungen speichern"
+!!!Note that tuning is performed on one car. We made one car and pressed the button. We did the second one and pressed the button.
+7) After completing, close the first program.
+8) Open the cartuner folder_1.3
+9) Open the NFS Most Wanted folder - Save Editor
+10) Run the program SaveEditor.exe
+11) Specify the path to the saves through the top line.
+12) Select the profile on which the cars were tuned.
+13) Press the Fix ChkSum button.
+14) To change the profile name, change the profile nickname in the "Alias" line and click the "Save" button. Also with money (line "Money") and rating (line "Bounty").
+
+Для русских:
+Тюнинг авто работает с помощью двух программ.
+Первая программа - сам тюнинг авто.
+Покупаете авто - заходите в программу - устанавливаете топовые детали (ЭТО НЕ КАСАЕТСЯ ДЕТАЛЕЙ КОРПУСА И ДЕТАЛЕЙ ВНЕШНЕГО ВИДА).
+С помощью второй программы вы восстановите файл карьеры, так как при использовании первой он повреждается. Также вторая программа позволяет вам поменять имя профиля, установить количество денег и количество рейтинга на авто находящемся в первом слоте гаража.
+
+Инструкция:
+1) Открыть папку cartuner_1.3
+2) Открыть папку Cartune 13
+3) Открыть файл CarTuner.CAB (можно с помощью зип)
+4) Открыть файл CarTuner.exe
+5) Выбрать файл карьеры, нажав кнопку "Spielstand laden".
+6) Слева находится таблица со списком авто из режима карьеры. Выбираете авто одним кликом. Справа список названия деталей и уровень установки. Также деталь старьёвщика, которая устанавливается галочкой. Если хотите улучшить авто режима меню (Мои машины), слева снизу написано "Mein Wagen". Просто переставьте точку туда.
+6) Установив тюнинг, на авто, жмите кнопку "Дnderungen speichern"
+!!!Заметьте, тюнинг производится на одном авто. Сделали одну машину - нажали кнопку. Сделали вторую - нажали кнопку.
+7) Выполнив, закрываем первую программу.
+8) Открыть папку cartuner_1.3
+9) Открыть папку NFS Most Wanted - Save Editor
+10) Запустить программу SaveEditor.exe
+11) Указываете путь к сохранениям через верхнюю строку.
+12) Выбираете профиль, на котором тюнинговали машины.
+13) Жмите кнопку Fix ChkSum.
+14) Чтобы изменить имя профиля - в строке "Alias" меняйте никнейм профиля и нажмите кнопку "Save". Также с деньгами (строчка "Money") и рейтингом (строчка "Bounty").

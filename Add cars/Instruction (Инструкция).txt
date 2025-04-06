@@ -1,0 +1,31 @@
+For english:
+This program opens additional cars in the auto store in career mode.
+Instruction:
+1) Open zip-file.
+2) Open "ShopSpezial1".
+3) Open zip-file "ShopSpezial1".
+4) Run the "ShopSpezial.exe".
+5) Choose the english language.
+6) Press the button "Open savegame".
+7) Select your profile.
+8) The list of cars will appear in the table.
+9) Press the button "Add special cars to shop".
+10) Press the button "Exit".
+
+Log into the game and all cars will be in the store.
+
+Для русских:
+Эта программа открывает дополнительные автомобили в автомагазине в режиме карьеры.
+Инструкция:
+1) Откройте zip-файл.
+2) Откройте "ShopSpezial1".
+3) Откройте zip-файл "ShopSpezial1".
+4) Запустите "ShopSpezial.exe".
+5) Выберите "English".
+6) Нажмите кнопку "Open savegame".
+7) Выберите свой профиль.
+8) В таблице появится список автомобилей.
+9) Нажмите кнопку "Add special cars to shop".
+10) Нажмите кнопку "Exit".
+
+Войдите в игру, и все автомобили появятся в магазине.

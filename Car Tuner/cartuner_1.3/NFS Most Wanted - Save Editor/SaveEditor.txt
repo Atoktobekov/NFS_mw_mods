@@ -1,0 +1,34 @@
+Need For Speed Most Wanted Save Editor
+--------------------------------------
+
+Using this small program you can change the amount of money
+and bounty for the first car in your garage during the career
+play. Besides, you can rename your alias what means that the
+prog will rename the corresponding directory and file, then 
+it will replace alias occurrences in the savefile with the
+text entered. This feature can be useful because it is not
+implemented in the game itself, so the only way to do that is
+to create a new profile/alias and replay the game from the
+beginning.
+
+The save file is changed directly, but there is no need to
+quit the game, 'cause it caches your current profile in memory
+during play. Thus the only thing you have to do is to reload the
+modified profile in the game.
+
+At startup the program will initialize in the default savegame
+folder (My Documents\NFS Most Wanted) for the logged on user.
+But you can select a different folder using the "Browse" button
+or re-read current by pressing the "Update" button.
+
+This program is distributed "AS IS" what means that the author
+is not responsible for any damage to your savefiles or any other
+case of misoperation due to the (probably wrong) usage of that
+program. So, make a backup copy of your savegames.
+
+Please, refer to the techinfo.txt if you are interested in some
+technical details.
+
+Have fun!
+
+(c) 2005 CoDe RiPPeR                 code_ripper[at]ukr[dot]net

@@ -1,0 +1,25 @@
+For english:
+This program is designed to create junk parts.
+Instruction:
+1) Open the zip-file.
+2) Open the program.
+3) Press the "Open" button.
+4) Specify the path to the save file and select the file.
+5) In the cells with 0, you can insert numbers of the number of details/markers from the police.
+6) In the final value (in cells "Total"), no MORE THAN 35 junk parts (exactly 35 parts can be) should be screwed up, otherwise the program will give an error.
+7) Click the "Save" button.
+
+!!!In case you still decided to check if the program gives an error and typed 36 details, just re-open the save with the "Open" button.
+
+Для русских:
+Данная программа предназначена для создания деталей старьёвщика.
+Инструкция:
+1) Открыть зип-файл.
+2) Открыть программу.
+3) Нажать кнопку "Open".
+4) Указать путь к файлу сохранения и выбрать файл.
+5) В ячейках с 0 можно вставить цифры количества деталей/маркеров от полиции.
+6) В конечном значении (ячейка "Total") не должно быть накручено БОЛЕЕ 35 деталей (ровно 35 деталей можно) старьёвщика, иначе программа выдаст ошибку.
+7) Нажать кнопку "Save".
+
+!!!В случае, если вы все же решили проверить, выдаёт ли программа ошибку, и ввели 36 деталей, просто повторно откройте сохранение с помощью кнопки "Open".

@@ -1,0 +1,24 @@
+For english:
+This trainer will help you have fun in the game or help you complete tasks in your career.
+The hotkey corresponds to the effect.
+
+F1 - Unlimited NOS.
+F2 - Unlimited time dilation.
+F3 - Ghost mode.
+F4 - Remove rivals in the race.
+F5 - Removes the passage of races.
+F6 - Removes the passage of bets.
+F7 - Removes the passage of bounty.
+F8 - No blow engine.
+F9 - No arrest.
+F10 - Invulnerable to thorns.
+F11 - Getting away from the cops.
+F12 - Autopilot (Drag race).
+Alt+F10 - Do not wait for the start countdown.
+Alt+F11 - Increase the timer (for time racing).
+Alt+F12 - Autopilot.
+V - Super speed.
+
+Для русских:
+Данный трейнер поможет весело провести время в игре или поможет пройти задания в карьере.
+Горячая клавиша соответствует эффекту.
